@@ -22,10 +22,6 @@
     <plugin name="cordova-plugin-network-information" source="npm" spec="~1.3.3" />
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.5" />
 
-    <plugin name="com.phonegap.plugins.facebookconnect" version="<VERSION>">
-        <param name="APP_ID" value="359250694537169" />
-        <param name="APP_NAME" value="Sr Emilio" />
-    </plugin>
     
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
